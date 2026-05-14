@@ -8,7 +8,7 @@ b=input("enter second string")
 c= a+b
 print(c)
 
-a="pratiksha"
-b="patil"
+a="Tejaswini"
+b="Kawale"
 c=a+b
 print(c)
